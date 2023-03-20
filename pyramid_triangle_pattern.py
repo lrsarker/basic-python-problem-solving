@@ -1,4 +1,4 @@
-#Python Pyramid/Triangle Pattern with loop.
+#Python Pyramid/Triangle Pattern with Basic loop.
 i = 0
 while i <= 6:
     print(i * '*')
